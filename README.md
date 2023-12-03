@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👯 I’m looking to collaborate on Sealbyt<br>🤝 I’m looking for help with Sealbyt<br>🌱 I’m currently learning Rust Python
+I am a student in Taiwan (2023)
+
+I am learning go
 
 
 # 💻 Tech Stack:
