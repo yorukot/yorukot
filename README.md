@@ -1,7 +1,7 @@
 <p align="center">
 
   <a href="https://discord.com/users/579544867626024960">
-    <img width="380" height="195" align="left" src="https://lanyard.cnrad.dev/api/579544867626024960?bg=FFFFFF00&animated=true"/>
+    <img width="380" height="195" align="left" src="https://lanyard.cnrad.dev/api/579544867626024960?bg=FFFFFF00&animated=true&idleMessage="/>
   </a>
 
   <a href="https://github.com/lowlighter/metrics">
