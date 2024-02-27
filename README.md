@@ -21,7 +21,7 @@
   <br/>
   
   <a href="https://skillicons.dev">
-    <img width="380" height="50" align="left" src="https://skillicons.dev/icons?i=discordjs,django,express,fastapi,flask,gcp" />
+    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=discordjs,django,express,fastapi,flask,gcp" />
   </a>
   
   <br/>
@@ -45,7 +45,7 @@
   </a>
   
   <a href="https://skillicons.dev">
-    <img width="380" height="50" align="left" src="https://skillicons.dev/icons?i=debian,figma,ubuntu,docker,git,discord" />
+    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=debian,figma,ubuntu,docker,git,discord" />
   </a>
   
   <br/>
