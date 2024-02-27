@@ -1,7 +1,7 @@
 <p align="center">
 
   <a href="https://discord.com/users/579544867626024960">
-    <img width="380" height="195" align="left" src="https://www.example/convert?text=https%3A%2F%2Flanyard.cnrad.dev%2Fapi%2F579544867626024960%3Fbg%3D5865f2%26animated%3Dtrue%26idleMessage%3DWell%2C%2520the%2520world%2520is%2520suck%2C%2520but%2520the%2520computer%2520world%2520is%2520nice%26borderRadius%3D30px"/>
+    <img width="380" height="195" align="left" src="https://lanyard.cnrad.dev/api/579544867626024960?bg=5865f2&animated=true&idleMessage=Well%2C%20the%20world%20is%20suck%2C%20but%20the%20engineer%20world%20is%20nice&borderRadius=30px"/>
   </a>
 
   <a href="https://github.com/lowlighter/metrics">
