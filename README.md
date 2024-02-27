@@ -15,7 +15,7 @@
   <br/>
   
   <a href="https://skillicons.dev">
-    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=cs,cpp,cassandra,cloudflare,css" />
+    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=cs,cpp,cassandra,cloudflare,css,arduino" />
   </a>
   
   <br/>
@@ -27,7 +27,7 @@
   <br/>
   
   <a href="https://skillicons.dev">
-    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=go,html,java,js,ts" />
+    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=go,html,java,js,ts,mysql" />
   </a>
   
   <br/>
@@ -45,7 +45,7 @@
   </a>
   
   <a href="https://skillicons.dev">
-    <img width="380" height="50" align="left" src="https://skillicons.dev/icons?i=debian,figma,ubuntu,docker,git" />
+    <img width="380" height="50" align="left" src="https://skillicons.dev/icons?i=debian,figma,ubuntu,docker,git,discord" />
   </a>
   
   <br/>
