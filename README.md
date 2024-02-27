@@ -15,19 +15,19 @@
   <br/>
   
   <a href="https://skillicons.dev">
-    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=cs,cpp,cassandra,cloudflare,css,debian,discord" />
+    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=cs,cpp,cassandra,cloudflare,css" />
   </a>
   
   <br/>
   
   <a href="https://skillicons.dev">
-    <img width="380" height="50" align="left" src="https://skillicons.dev/icons?i=discordjs,django,docker,express,fastapi,figma,flask,gcp" />
+    <img width="380" height="50" align="left" src="https://skillicons.dev/icons?i=discordjs,django,express,fastapi,flask,gcp" />
   </a>
   
   <br/>
   
   <a href="https://skillicons.dev">
-    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=github,go,html,idea,java,js,ts" />
+    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=go,html,java,js,ts" />
   </a>
   
   <br/>
@@ -42,6 +42,10 @@
   
   <a href="https://skillicons.dev">
     <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=postman,py,react,vercel,tailwind,stackoverflow" />
+  </a>
+  
+  <a href="https://skillicons.dev">
+    <img width="380" height="50" align="left" src="https://skillicons.dev/icons?i=debian,figma,ubuntu,docker,git" />
   </a>
   
   <br/>
