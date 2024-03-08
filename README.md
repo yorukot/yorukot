@@ -1,7 +1,7 @@
 <p align="center">
 
   <a href="https://discord.com/users/579544867626024960">
-    <img width="380" height="195" align="left" src="https://lanyard.cnrad.dev/api/579544867626024960?bg=FFFFFF00&animated=true&idleMessage=Well%2C%20the%20world%20is%20suck%2C%20but%20the%20engineer%20world%20is%20nice&borderRadius=30px"/>
+    <img width="380" height="195" align="left" src="https://lanyard.cnrad.dev/api/579544867626024960?bg=FFFFFF00&animated=true&idleMessage=Well%2C%20the%20world%20is%20sucks%2C%20but%20the%20engineer%20world%20is%20nice&borderRadius=30px"/>
   </a>
 
   <a href="https://github.com/lowlighter/metrics">
