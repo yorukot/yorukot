@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="949" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="965" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            484 Commits
+                            485 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.71498215525617" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="310.71498215525617" y="0" width="69.01158188540657" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="379.7265640406627" y="0" width="32.45353991838471" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="412.1801039590474" y="0" width="25.587950142950568" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="437.76805410199796" y="0" width="15.503271307064427" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="453.27132540906246" y="0" width="6.728674590937567" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.5752536724342" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="310.5752536724342" y="0" width="68.98054738695046" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="379.5558010593847" y="0" width="32.64580750004011" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="412.2016085594248" y="0" width="25.576443245448566" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="437.77805180487337" y="0" width="15.496299488185638" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="453.274351293059" y="0" width="6.725648706941009" height="8" fill="#ff5a03"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -274,6 +274,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MHNightCat/superfile</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bb55ece</div>
+                                        <div class="message">update macos trash can support</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -354,29 +374,12 @@ And about the Macos trash can, I think I'll fix it tomorrow :(</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#63 Get external media error</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by bbfh-dev in <span class="repo">MHNightCat/superfile</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2024, 12:13:12 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2024, 13:10:19 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
