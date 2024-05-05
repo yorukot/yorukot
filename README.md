@@ -40,12 +40,16 @@
     />
   </a>
   <br />
-  <span style="margin-top: 20px"></span>
-  <br />
   <img
+    style="margin-top: 20px"
     width="380"
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=mhnightcat&show_icons=true&theme=calm"
   />
-  <br />
+    <img
+    style="margin-top: 20px"
+    width="380"
+    align="left"
+    src="  https://github-readme-stats.vercel.app/api/wakatime?username=Night_Cat&show_icons=true&theme=calm"
+  />
 </p>
