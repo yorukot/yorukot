@@ -8,8 +8,8 @@
     <img width="425" height="675" align="right" src="/github-metrics.svg"/> 
   </a>
   
-  <a href="https://skillicons.dev">
-    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=anaconda,arch,astro,bash,bun,c" />
+  <a href="ttps://skillicons.devh">
+    <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=go,linux,ts,js,bash,nextjs" />
   </a>
   
   <br/>
