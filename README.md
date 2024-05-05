@@ -39,5 +39,8 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/wakatime?username=Night_Cat&layout=compact&theme=calm&langs_count=20&custom_title=Total%20coding%20time%20since%20July%202023"
   />
-  <span style="font-size: larger; color: gray; font-style: italic;">I use Fedora btw</span>
+  <br />
+  <span align="left" font-size="larger" color="gray" font-style="italic"
+    >I use Fedora btw</span
+  >
 </p>
