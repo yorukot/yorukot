@@ -26,9 +26,9 @@
       src="https://lanyard.cnrad.dev/api/579544867626024960?bg=FFFFFF00&animated=true&idleMessage=Well%2C%20the%20world%20sucks%2C%20but%20the%20engineering%20world%20is%20nice&borderRadius=30px"
     />
   </a>
-  <br />
-  <div style="display: inline-block; margin-top: 20px;"></div>
-
+  <span 
+  display="inline-block"
+  margin-top="20px"></span>
   <img
     width="380"
     align="left"
@@ -40,4 +40,8 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/wakatime?username=Night_Cat&layout=compact&theme=calm&langs_count=20&custom_title=Total%20coding%20time%20since%20July%202023"
   />
+
+  <a href="https://github.com/lowlighter/metrics">
+    <img width="425" align="right" src="/github-metrics.svg" />
+  </a>
 </p>
