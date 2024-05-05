@@ -12,9 +12,6 @@
     <img width="380" height="60" align="left" src="https://skillicons.dev/icons?i=go,linux,ts,js,bash,nextjs" />
   </a>
   <br/>
-  You need to try open source and this cat will be sad if you don't :(
-  <br/>
-  
   <!-- a href="https://www.pixiv.net/artworks/108959128">
     <img width="380" height="185" align="left" src="/src/banner.webp" />
   </a -->
