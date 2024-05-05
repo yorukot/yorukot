@@ -31,14 +31,14 @@
     <img width="425" align="right" src="/github-metrics.svg" />
   </a>
   <br />
+  <div height="20"></div>
   <img
-    style="margin-top: 20px"
     width="380"
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=mhnightcat&show_icons=true&theme=calm"
   />
-    <img
-    style="margin-top: 20px"
+  <div height="20"></div>
+  <img
     width="380"
     align="left"
     src="https://github-readme-stats.vercel.app/api/wakatime?username=Night_Cat&layout=compact&theme=calm&langs_count=20&custom_title=Total%20coding%20time%20since%20July%202023"
