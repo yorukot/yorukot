@@ -42,7 +42,7 @@
   <img
     width="380"
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=mhnightcat&show_icons=true&theme=highcontrast"
+    src="https://github-readme-stats.vercel.app/api?username=mhnightcat&show_icons=true&theme=cobalt"
   />
   <br />
 </p>
