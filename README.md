@@ -39,13 +39,13 @@
       src="https://skillicons.dev/icons?i=go,linux,ts,js,bash,nextjs"
     />
   </a>
-  <br/>
-  <span style="display:inline-block; height:30px;"></span>
-  <br/> 
+  <br />
+  <span style="margin-top: 20px"></span>
+  <br />
   <img
     width="380"
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=mhnightcat&show_icons=true&theme=codeSTACKr"
+    src="https://github-readme-stats.vercel.app/api?username=mhnightcat&show_icons=true&theme=calm"
   />
   <br />
 </p>
