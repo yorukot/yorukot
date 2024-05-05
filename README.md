@@ -26,12 +26,9 @@
       src="https://lanyard.cnrad.dev/api/579544867626024960?bg=FFFFFF00&animated=true&idleMessage=Well%2C%20the%20world%20sucks%2C%20but%20the%20engineering%20world%20is%20nice&borderRadius=30px"
     />
   </a>
-
-  <a href="https://github.com/lowlighter/metrics">
-    <img width="425" align="right" src="/github-metrics.svg" />
-  </a>
   <br />
-  <div height="20"></div>
+  <div style="display: inline-block; margin-top: 20px;"></div>
+
   <img
     width="380"
     align="left"
