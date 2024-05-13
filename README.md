@@ -48,5 +48,5 @@
 </p>
 
 <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=mhnightcat&style=flat-square" />
+      <img align="center" src="https://komarev.com/ghpvc/?username=mhnightcat&style=flat-square" />
 </p>
