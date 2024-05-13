@@ -46,3 +46,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=I+use+fedora+btw."
   />
 </p>
+
+<p align="center">
+      <img src="https://komarev.com/ghpvc/?username=mhnightcat&style=flat-square" />
+</p>
