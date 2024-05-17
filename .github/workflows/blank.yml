@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: MHNightCat
+          user: yorukot
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Taipei
