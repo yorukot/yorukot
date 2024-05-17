@@ -32,7 +32,7 @@
   <img
     width="380"
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=mhnightcat&show_icons=true&theme=calm"
+    src="https://github-readme-stats.vercel.app/api?username=yorukot&show_icons=true&theme=calm"
   />
   <img
     width="380"
@@ -48,5 +48,5 @@
 </p>
 
 <p align="center">
-      <img align="center" src="https://komarev.com/ghpvc/?username=mhnightcat&style=flat-square" />
+      <img align="center" src="https://komarev.com/ghpvc/?username=yorukot&style=flat-square" />
 </p>
