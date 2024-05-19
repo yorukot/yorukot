@@ -28,12 +28,14 @@
       align="left"
       src="https://lanyard.cnrad.dev/api/579544867626024960?bg=FFFFFF00&animated=true&idleMessage=Well%2C%20the%20world%20sucks%2C%20but%20the%20engineering%20world%20is%20nice&borderRadius=30px"
     />
+    </a>
   </a>
   <img
     width="380"
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=yorukot&show_icons=true&theme=calm"
   />
+   <a href="https://wakatime.com/@9763e2a8-f66d-42c7-8668-f6ba4332829e">
   <img
     width="380"
     align="left"
@@ -48,6 +50,5 @@
 </p>
 
 <p align="center">
-      <a align="center" href="https://wakatime.com/@9763e2a8-f66d-42c7-8668-f6ba4332829e"><img src="https://wakatime.com/badge/user/9763e2a8-f66d-42c7-8668-f6ba4332829e.svg" alt="Total time coded since Jun 5 2023" /></a>
       <img align="center" src="https://komarev.com/ghpvc/?username=yorukot&style=flat-square&base=500" />
 </p>
