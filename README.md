@@ -48,5 +48,6 @@
 </p>
 
 <p align="center">
-      <img align="center" src="https://komarev.com/ghpvc/?username=yorukot&style=flat-square&color=orange&base=500" />
+      <a align="center" href="https://wakatime.com/@9763e2a8-f66d-42c7-8668-f6ba4332829e"><img src="https://wakatime.com/badge/user/9763e2a8-f66d-42c7-8668-f6ba4332829e.svg" alt="Total time coded since Jun 5 2023" /></a>
+      <img align="center" src="https://komarev.com/ghpvc/?username=yorukot&style=flat-square&base=500" />
 </p>
