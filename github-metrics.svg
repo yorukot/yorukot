@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="891" class="">
     <defs>
         <style/>
     </defs>
@@ -1330,6 +1330,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#9906923</div>
+                                        <div class="message">update field render with icon</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">instructhub/website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#5ab32c3</div>
                                         <div class="message">fix package bug</div>
                                     </div>
@@ -1350,40 +1370,6 @@
                                 <div class="details">
                                     <div>opened by wolf-yuan-6115 in <span class="repo">instructhub/website</span></div>
                                     <div class="comment">thx!</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">instructhub/website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0fce66e</div>
-                                        <div class="message">Merge pull request #4 from wolf-yuan-6115/chore-proper-gitignore
-
-Change to proper gitignore file, fixes package.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2bc78d</div>
-                                        <div class="message">chore: clean up package.json, change wrong license</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a30eee</div>
-                                        <div class="message">chore: pnpm lock file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d5c39b</div>
-                                        <div class="message">chore: proper .gitignore file</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
