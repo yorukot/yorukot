@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="884" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="901" class="">
     <defs>
         <style/>
     </defs>
@@ -1324,14 +1324,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">HackIt-Taiwan/HackItInterviewer</span>
+                                        <span class="repo">instructhub/backend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#afc483f</div>
-                                        <div class="message">feat: update search function</div>
+                                        <div class="sha">#ddb254f</div>
+                                        <div class="message">feat: update nickname to display name and change username maxmium length</div>
                                     </div>
                                 </div>
                             </section>
@@ -1344,14 +1344,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">instructhub/backend</span>
+                                        <span class="repo">instructhub/website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0eaa732</div>
-                                        <div class="message">feat: update log system</div>
+                                        <div class="sha">#40b2277</div>
+                                        <div class="message">feat: update display name</div>
                                     </div>
                                 </div>
                             </section>
@@ -1363,15 +1363,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">instructhub/backend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#77b4ea5</div>
-                                        <div class="message">feat: update refresh token to one-time use and update reponse data key to result</div>
+                                        <div class="sha">#def9627</div>
+                                        <div class="message">feat: update nick name and email verify process</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4099364</div>
+                                        <div class="message">feat: update nickname</div>
                                     </div>
                                 </div>
                             </section>
