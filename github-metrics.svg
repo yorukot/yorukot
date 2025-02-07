@@ -1308,14 +1308,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cfd83df</div>
-                                        <div class="message">Merge pull request #40 from HackIt-Taiwan/create-team-finish
+                                        <div class="sha">#762b504</div>
+                                        <div class="message">Merge pull request #41 from HackIt-Taiwan/teacher-member-form
 
-feat: finish create team page and rename some page name</div>
+feat: update member and teacher apply page</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#94921f5</div>
-                                        <div class="message">feat: finish create team page and rename some page name</div>
+                                        <div class="sha">#62f8989</div>
+                                        <div class="message">feat: update member and teacher apply page</div>
                                     </div>
                                 </div>
                             </section>
@@ -1328,12 +1328,12 @@ feat: finish create team page and rename some page name</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#40 feat: finish create team page and rename some page name</span>
+                                        <span class="issue">#41 feat: update member and teacher apply page</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">HackIt-Taiwan/scrapyard-event-system</span></div>
-                                    <div>6 files changed <span class="code">++647 --55</span></div>
+                                    <div>3 files changed <span class="code">++162 --489</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1345,12 +1345,12 @@ feat: finish create team page and rename some page name</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#40 feat: finish create team page and rename some page name</span>
+                                        <span class="issue">#41 feat: update member and teacher apply page</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">HackIt-Taiwan/scrapyard-event-system</span></div>
-                                    <div>6 files changed <span class="code">++647 --55</span></div>
+                                    <div>3 files changed <span class="code">++162 --489</span></div>
                                 </div>
                             </section>
                         </div>
