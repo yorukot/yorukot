@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="901" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="884" class="">
     <defs>
         <style/>
     </defs>
@@ -1324,14 +1324,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Xiaobonor/Terminal-Outbreak</span>
+                                        <span class="repo">HackIt-Taiwan/scrapyard-event-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e2b6df1</div>
-                                        <div class="message">fix: fix some bug</div>
+                                        <div class="sha">#9296b9b</div>
+                                        <div class="message">feat: 20 limit</div>
                                     </div>
                                 </div>
                             </section>
@@ -1343,21 +1343,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">HackIt-Taiwan/scrapyard-event-system</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">HackIt-Taiwan/scrapyard-event-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#19843a7</div>
-                                        <div class="message">Merge pull request #58 from HackIt-Taiwan/deploy
-
-feat: update discord notification</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72f2456</div>
-                                        <div class="message">feat: update discord notification</div>
+                                        <div class="sha">#0a4a064</div>
+                                        <div class="message">feat: update some format</div>
                                     </div>
                                 </div>
                             </section>
@@ -1370,12 +1364,12 @@ feat: update discord notification</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#58 feat: update discord notification</span>
+                                        <span class="issue">#59 feat: update apply progess</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">HackIt-Taiwan/scrapyard-event-system</span></div>
-                                    <div>2 files changed <span class="code">++117 --1</span></div>
+                                    <div>8 files changed <span class="code">++117 --105</span></div>
                                 </div>
                             </section>
                         </div>
