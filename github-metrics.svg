@@ -1330,14 +1330,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#690dc84</div>
-                                        <div class="message">Merge pull request #95 from HackIt-Taiwan/dont-ask-me
+                                        <div class="sha">#25e0633</div>
+                                        <div class="message">Merge pull request #96 from HackIt-Taiwan/dont-ask-me
 
-feat: update</div>
+feat: shit thing</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a9e0b26</div>
-                                        <div class="message">feat: update</div>
+                                        <div class="sha">#f8e52e9</div>
+                                        <div class="message">feat: shit thing</div>
                                     </div>
                                 </div>
                             </section>
@@ -1350,12 +1350,12 @@ feat: update</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#95 feat: update</span>
+                                        <span class="issue">#96 feat: shit thing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">HackIt-Taiwan/scrapyard-event-system</span></div>
-                                    <div>3 files changed <span class="code">++0 --4</span></div>
+                                    <div>2 files changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1367,12 +1367,12 @@ feat: update</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#95 feat: update</span>
+                                        <span class="issue">#96 feat: shit thing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">HackIt-Taiwan/scrapyard-event-system</span></div>
-                                    <div>3 files changed <span class="code">++0 --4</span></div>
+                                    <div>2 files changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
