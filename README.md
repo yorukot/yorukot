@@ -41,14 +41,11 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/wakatime?username=Night_Cat&layout=compact&theme=calm&langs_count=20&custom_title=Total%20coding%20time%20since%20July%202023"
   />
-  <br />
 </p>
      
-<pre>
-
-
-
-</pre>
+<br />
+<br />
+<br />
 
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=yorukot&style=flat-square&base=500" />
