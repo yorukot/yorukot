@@ -43,7 +43,13 @@
   />
   <br />
 </p>
+     
+<pre>
 
-<p align="center" style="margin-top: 30px;">
+
+
+</pre>
+
+<p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=yorukot&style=flat-square&base=500" />
 </p>
