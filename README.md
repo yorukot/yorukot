@@ -42,11 +42,6 @@
     src="https://github-readme-stats.vercel.app/api/wakatime?username=Night_Cat&layout=compact&theme=calm&langs_count=20&custom_title=Total%20coding%20time%20since%20July%202023"
   />
   <br />
-  <img
-    width="380"
-    align="left"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=I+use+fedora+btw."
-  />
 </p>
 
 <p align="center">
