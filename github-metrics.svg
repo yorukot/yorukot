@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="871" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="868" class="">
     <defs>
         <style/>
     </defs>
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    14011 Stargazers
+                                    14012 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1312,8 +1312,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#52efa38</div>
-                                        <div class="message">feat: update 死亡原因統計</div>
+                                        <div class="sha">#7340ab9</div>
+                                        <div class="message">feat: update hospital admission stats</div>
                                     </div>
                                 </div>
                             </section>
@@ -1332,8 +1332,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b8de15e</div>
-                                        <div class="message">feat: update 死亡率統計</div>
+                                        <div class="sha">#c2c4807</div>
+                                        <div class="message">feat: update 醫院佔床率放上去</div>
                                     </div>
                                 </div>
                             </section>
@@ -1352,8 +1352,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#37f044e</div>
-                                        <div class="message">feat: update hospital with phone number</div>
+                                        <div class="sha">#20fd0f1</div>
+                                        <div class="message">feat: update hospital_service_volume</div>
                                     </div>
                                 </div>
                             </section>
