@@ -1312,8 +1312,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#262ff13</div>
-                                        <div class="message">feat: update scatter chart and also update ScatterChart to fix some error</div>
+                                        <div class="sha">#e978419</div>
+                                        <div class="message">refactor: fix some prettier error</div>
                                     </div>
                                 </div>
                             </section>
@@ -1332,8 +1332,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f5956d7</div>
-                                        <div class="message">feat: update negative line chart sample</div>
+                                        <div class="sha">#1121a1e</div>
+                                        <div class="message">feat: update area chart</div>
                                     </div>
                                 </div>
                             </section>
@@ -1352,8 +1352,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#60e502a</div>
-                                        <div class="message">feat: update hospital employment stats</div>
+                                        <div class="sha">#167c813</div>
+                                        <div class="message">feat: update bubble chart</div>
                                     </div>
                                 </div>
                             </section>
