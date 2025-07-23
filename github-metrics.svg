@@ -1335,8 +1335,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c301725</div>
-                                        <div class="message">feat(database): integrate gormigrate for database migrations and update initialization logic</div>
+                                        <div class="sha">#96fb3f8</div>
+                                        <div class="message">feat(api, user): update user profile endpoint to '/api/users/me' and add public user events retrieval endpoint</div>
                                     </div>
                                 </div>
                             </section>
@@ -1355,8 +1355,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7f3c22a</div>
-                                        <div class="message">feat(user): add API endpoint to retrieve authenticated user's profile and enhance calendar sync functionality with optional force sync parameter</div>
+                                        <div class="sha">#692beae</div>
+                                        <div class="message">feat(api, calendar): implement update and delete endpoints for calendars with corresponding request and response models</div>
                                     </div>
                                 </div>
                             </section>
@@ -1375,8 +1375,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e856c64</div>
-                                        <div class="message">refactor(calendar): change GetCalendarEvents endpoint from POST to GET and remove unused time parsing logic</div>
+                                        <div class="sha">#aa79404</div>
+                                        <div class="message">feat(api, calendar): implement update and delete endpoints for calendars with corresponding request and response models</div>
                                     </div>
                                 </div>
                             </section>
