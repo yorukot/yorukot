@@ -1302,16 +1302,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">yorukot/blog</span>
+                                        <span class="repo">yorukot/stargo</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#508dea1</div>
-                                        <div class="message">Revert "feat: add smooth scrollbar functionality to layout; update package.json and pnpm-lock.yaml for new dependency"
-
-This reverts commit 1c27e13679e3b31646bf26b6630f14c261d9be9f.</div>
+                                        <div class="sha">#65989ba</div>
+                                        <div class="message">docs: update readme</div>
                                     </div>
                                 </div>
                             </section>
@@ -1330,8 +1328,8 @@ This reverts commit 1c27e13679e3b31646bf26b6630f14c261d9be9f.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ccce064</div>
-                                        <div class="message">feat: finish oauth flow</div>
+                                        <div class="sha">#526a8bc</div>
+                                        <div class="message">chore(license): formate license to make it prettier</div>
                                     </div>
                                 </div>
                             </section>
@@ -1344,7 +1342,7 @@ This reverts commit 1c27e13679e3b31646bf26b6630f14c261d9be9f.</div>
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">mountain-loop/yaak</span>
+                                        <span class="repo">nodejs/node</span>
                                     </div>
                                 </div>
                             </section>
