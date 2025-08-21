@@ -19,7 +19,7 @@
 	</picture>
 </p>
 
-<p align="left">
+<p align="center">
 	<a href="https://github.com/lowlighter/metrics">
 		<img width="425" align="right" src="/github-metrics.svg" />
 	</a>
@@ -36,14 +36,6 @@
 		align="left"
 		src="https://github-read-me-stats.vercel.app/api?username=yorukot&show_icons=true&theme=calm"
 	/>
-</p>
-
-<p align="left">START WRITE IN GO</p>
-
-<p align="left">
-	<a href="https://www.youtube.com/watch?v=LJvEIjRBSDA" target="_blank">
-		<img width="380" src="https://img.youtube.com/vi/LJvEIjRBSDA/0.jpg" alt="YouTube Video" />
-	</a>
 </p>
 
 <p align="right">
