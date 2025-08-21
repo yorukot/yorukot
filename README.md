@@ -39,9 +39,15 @@
 </p>
 
 <p align="center">
-	<a href="https://www.youtube.com/watch?v=LJvEIjRBSDA" target="_blank">
-		<img width="380" src="https://img.youtube.com/vi/LJvEIjRBSDA/0.jpg" alt="YouTube Video" />
-	</a>
+	<iframe 
+		width="380" 
+		height="214" 
+		src="https://www.youtube.com/embed/LJvEIjRBSDA" 
+		title="YouTube video player" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+		allowfullscreen>
+	</iframe>
 </p>
 
 <p align="center">
