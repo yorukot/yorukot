@@ -34,11 +34,17 @@
 	<img
 		width="380"
 		align="left"
-		src="https://github-read-me-stats.vercel.app/api?username=yorukot&show_icons=true&theme=calm"
+		src="https://github-readme-stats.vercel.app/api?username=yorukot&show_icons=true&theme=calm"
 	/>
 </p>
 
-<p align="right">
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=LJvEIjRBSDA" target="_blank">
+		<img width="380" src="https://img.youtube.com/vi/LJvEIjRBSDA/0.jpg" alt="YouTube Video" />
+	</a>
+</p>
+
+<p align="center">
 	<img
 		align="center"
 		src="https://komarev.com/ghpvc/?username=yorukot&style=flat-square&base=500"
