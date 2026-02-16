@@ -31,11 +31,6 @@
 			src="https://lanyard.cnrad.dev/api/579544867626024960?bg=FFFFFF00&animated=true&idleMessage=Get%20busy%20living%2C%20%20or%20get%20busy%20dying&borderRadius=30px"
 		/>
 	</a>
-	<img
-		width="380"
-		align="left"
-		src="https://github-readme-stats.vercel.app/api?username=yorukot&show_icons=true&theme=calm"
-	/>
 </p>
 
 <p align="center">
